@@ -1,6 +1,6 @@
-# Four Wheel Robot Simulation
+# E-Puck Robot Simulation in Webots software
 
-A four-wheeled robot simulation project using Webots.
+E-Puck Robot Simulation in Webots software
 
 ## Project Structure
 
