@@ -38,6 +38,7 @@ def run_robot(robot):
         left_speed = max_speed
         right_speed = max_speed
 
+
         if front_wall:
             print("Turn right")
             left_speed = max_speed
